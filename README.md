@@ -68,7 +68,9 @@ Screen Record           - Record the screen on the target
 Webcam                  - Take a picture from the webcam
 Keylogger               - Track and save keylogs on the target
 Lock                    - Lock the target's workstation
+
 Dump Password           - Dump passwords from the target (lazagne> https://github.com/AlessandroZ/LaZagne.git)
+
 Privilege Escalation    - Elevate privileges to Admin or System (winpwnage> https://github.com/rootm0s/WinPwnage.git)
 
 ## License
