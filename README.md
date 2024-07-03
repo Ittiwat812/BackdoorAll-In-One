@@ -61,6 +61,20 @@ These are specified in the `requirements.txt` file and can be installed using th
 - `server1.py` sets up a server to handle incoming connections from the backdoor clients.
 - The `lazagne` and `winpwnage` directories contain modules related to LaZagne and WinPwnage tools, respectively.
 
+## BACKDOOR! Functions
+Screenshot              - Capture a screenshot from the target
+Audio                   - Record audio on the target
+Screen Record           - Record the screen on the target
+Webcam                  - Take a picture from the webcam
+Keylogger               - Track and save keylogs on the target
+Lock                    - Lock the target's workstation
+Dump Password           - Dump passwords from the target (lazagne> https://github.com/AlessandroZ/LaZagne.git)
+Privilege Escalation    - Elevate privileges to Admin or System (winpwnage> https://github.com/rootm0s/WinPwnage.git)
+
 ## License
 
 This project is for educational and ethical hacking purposes only. Use it responsibly.
+
+## Special thanks
+AlessandroZ for 
+rootm0s for 
