@@ -84,6 +84,6 @@ This project is for educational and ethical hacking purposes only. Use it respon
 
 ## Special thanks
 
-AlessandroZ for LaZagne.git
-
-rootm0s for WinPwnage.git
+- [AlessandroZ](https://github.com/AlessandroZ) for [LaZagne](https://github.com/AlessandroZ/LaZagne)
+  
+- [rootm0s](https://github.com/rootm0s) for [WinPwnage](https://github.com/rootm0s/WinPwnage)
