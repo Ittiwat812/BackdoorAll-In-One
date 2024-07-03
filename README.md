@@ -63,10 +63,15 @@ These are specified in the `requirements.txt` file and can be installed using th
 
 ## BACKDOOR! Functions
 Screenshot              - Capture a screenshot from the target
+
 Audio                   - Record audio on the target
+
 Screen Record           - Record the screen on the target
+
 Webcam                  - Take a picture from the webcam
+
 Keylogger               - Track and save keylogs on the target
+
 Lock                    - Lock the target's workstation
 
 Dump Password           - Dump passwords from the target (lazagne> https://github.com/AlessandroZ/LaZagne.git)
@@ -78,5 +83,7 @@ Privilege Escalation    - Elevate privileges to Admin or System (winpwnage> http
 This project is for educational and ethical hacking purposes only. Use it responsibly.
 
 ## Special thanks
-AlessandroZ for 
-rootm0s for 
+
+AlessandroZ for LaZagne.git
+
+rootm0s for WinPwnage.git
