@@ -7,7 +7,7 @@ This project contains various scripts and tools for backdoor operations. It incl
 
 - `backdoor.py`: Main backdoor script.
 - `Dumper.py`: Script for dumping data.
-- `server1.py`: Server-side script for handling backdoor connections.
+- `Server.py`: Server-side script for handling backdoor connections.
 - `lazagne`: Directory containing LaZagne-related modules.
 - `winpwnage`: Directory containing WinPwnage-related modules.
 
