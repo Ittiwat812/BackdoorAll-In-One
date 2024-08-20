@@ -38,7 +38,7 @@ python backdoor.py
 - To run the server-side script:
 
 ```bash
-python server1.py
+python Server.py
 ```
 
 ### Dependencies
