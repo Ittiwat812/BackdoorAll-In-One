@@ -82,6 +82,10 @@ Privilege Escalation    - Elevate privileges to Admin or System (winpwnage> http
 
 This project is for educational and ethical hacking purposes only. Use it responsibly.
 
+## Contributor
+
+ - [Pawatpai)(https://github.com/pawatpai)
+
 ## Special thanks
 
 - [AlessandroZ](https://github.com/AlessandroZ) for [LaZagne](https://github.com/AlessandroZ/LaZagne)
