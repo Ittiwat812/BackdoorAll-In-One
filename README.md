@@ -84,7 +84,7 @@ This project is for educational and ethical hacking purposes only. Use it respon
 
 ## Contributor
 
- - [pawatpai](https://github.com/pawatpai)
+ - [Pawat Jiangthiranan](https://github.com/pawatpai)
  - Peerawichaya Pholwiset
  - Sorravich Rattagool
  - Sirapich Boonyasampan 
