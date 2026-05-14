@@ -80,7 +80,9 @@ Privilege Escalation    - Elevate privileges to Admin or System (winpwnage> http
 
 ## License
 
-This project is for educational and ethical hacking purposes only. Use it responsibly.
+This project is for educational and ethical hacking purposes only. Use it responsibly. 
+This project was built for controlled lab-based ethical hacking education only.
+Do not run against systems without explicit permission.
 
 ## Contributor
 
